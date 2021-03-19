@@ -1,6 +1,6 @@
 <?php
 
-namespace Library_38_Currency;
+namespace Diynik_38_sdk;
 
 use \GuzzleHttp\Client;
 
